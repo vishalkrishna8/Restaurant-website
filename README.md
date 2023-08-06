@@ -1,5 +1,5 @@
 <div align="center">
-<h1> A Fully Functional Restaurant Website </h1>
+<h1> A Fully Functional Restaurant Website </h1> </div>
 
 
 [Live Preview](https://rainyroof.vercel.app/)
