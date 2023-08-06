@@ -1,6 +1,6 @@
 <div align="center">
+  
 <h1> A Fully Functional Restaurant Website </h1> 
-
 
 [Live Preview](https://rainyroof.vercel.app/)
 
