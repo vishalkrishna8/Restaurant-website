@@ -2,7 +2,7 @@
   
 <h1> A Fully Functional Restaurant Website </h1> 
 
-**[Live Preview](https://veggievortex.vercel.app/)**
+**[Live Preview of my website](https://veggievortex.vercel.app/)**
 
 **[Live Preview](https://rainyroof.vercel.app/)**
 
